@@ -1,0 +1,20 @@
+{
+    "name": "menschoid/auto-tree-builder-bundle",
+    "description": "Using property attributes to generate a TreeBuilder.",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Menschoid\\AutoTreeBuilderBundle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Menschoid",
+            "email": "alexm-s@web.de"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    }
+}
